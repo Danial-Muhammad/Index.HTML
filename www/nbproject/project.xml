@@ -1,0 +1,10 @@
+<?php
+
+echo "<p>data processed</p>";
+
+date_default_timezone_set("UTC");
+
+echo date("H:i:s:U a,l F jS Y e");
+
+?>
+
