@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+h1,h2{
+        color: gray;
+}
+h3,h4{
+        color: green;
+}
+h5,h6{
+        color: blue;
+}
+b{
+    color:green;
+    
+}
+p{
+    color: red;
+    
+}
+i{
+        color: white;
+        width:200px;
+        height:200px;
+
+    
+}
+img.AI{
+        color: aqua;
+        width:150px;
+        height:200px;
+
+}
+img.website{
+        color: royalblue;
+        width:400px;
+        height:400px;
+}
