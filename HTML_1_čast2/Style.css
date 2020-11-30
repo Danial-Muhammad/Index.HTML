@@ -1,0 +1,65 @@
+body{
+    background-color: wheat;
+}
+h1,h2{
+        color: gray;
+}
+h3,h4{
+        color: green;
+}
+h5,h6{
+        color: blue;
+}
+b{
+    color:green;
+    
+}
+p{
+    color: black;
+    
+}
+i{
+        color: white;
+        width:200px;
+        height:200px;
+
+    
+}
+img.AI{
+        color: gray;
+        width:150px;
+        height:200px;
+
+}
+img.website{
+        color: royalblue;
+        width:400px;
+        height:400px;
+}
+ol{
+    color:black;
+    
+}
+ul{
+    color:blueviolet;
+    
+}
+li{
+    color:green;
+    
+}
+thead{
+    background-color: darkblue;
+    color:white;
+    
+}
+tbody{
+    background-color: darkblue;
+    color:black;
+    
+}
+tbody{
+    background-color: aqua;
+    
+}
+
